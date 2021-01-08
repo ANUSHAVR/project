@@ -1,8 +1,11 @@
 ruby install from chrome
 then open cmd
 gem install rails --no-document  //rails install command
+ 
+install yarn from chrome 
+install nodejs from chrome
 
-
+install all in c folder or same location
 rails new appname
 cd appname
 
